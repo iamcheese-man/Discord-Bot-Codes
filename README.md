@@ -1,4 +1,4 @@
-# Discord-Bot-Codes
+# Discord Bot Templates
 
 Python (.py) files containing public Discord bot templates and utilities.
 
